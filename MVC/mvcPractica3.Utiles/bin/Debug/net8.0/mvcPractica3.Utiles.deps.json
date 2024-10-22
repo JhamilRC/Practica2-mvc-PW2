@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "mvcPractica3.Utiles/1.0.0": {
+        "runtime": {
+          "mvcPractica3.Utiles.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "mvcPractica3.Utiles/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

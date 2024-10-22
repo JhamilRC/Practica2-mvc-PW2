@@ -1,0 +1,39 @@
+C:\Users\Usuuario2\source\repos\mvcPractica3.AccesoDatos\bin\Debug\net8.0\mvcPractica3.AccesoDatos.deps.json
+C:\Users\Usuuario2\source\repos\mvcPractica3.AccesoDatos\bin\Debug\net8.0\mvcPractica3.AccesoDatos.dll
+C:\Users\Usuuario2\source\repos\mvcPractica3.AccesoDatos\bin\Debug\net8.0\mvcPractica3.AccesoDatos.pdb
+C:\Users\Usuuario2\source\repos\mvcPractica3.AccesoDatos\bin\Debug\net8.0\mvcPractica3.models.dll
+C:\Users\Usuuario2\source\repos\mvcPractica3.AccesoDatos\bin\Debug\net8.0\mvcPractica3.Utiles.dll
+C:\Users\Usuuario2\source\repos\mvcPractica3.AccesoDatos\bin\Debug\net8.0\mvcPractica3.models.pdb
+C:\Users\Usuuario2\source\repos\mvcPractica3.AccesoDatos\bin\Debug\net8.0\mvcPractica3.Utiles.pdb
+C:\Users\Usuuario2\source\repos\mvcPractica3.AccesoDatos\obj\Debug\net8.0\mvcPractica3.AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\Usuuario2\source\repos\mvcPractica3.AccesoDatos\obj\Debug\net8.0\mvcPractica3.AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuuario2\source\repos\mvcPractica3.AccesoDatos\obj\Debug\net8.0\mvcPractica3.AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\Usuuario2\source\repos\mvcPractica3.AccesoDatos\obj\Debug\net8.0\mvcPractica3.AccesoDatos.AssemblyInfo.cs
+C:\Users\Usuuario2\source\repos\mvcPractica3.AccesoDatos\obj\Debug\net8.0\mvcPractica3.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Usuuario2\source\repos\mvcPractica3.AccesoDatos\obj\Debug\net8.0\mvcPract.26A45CC2.Up2Date
+C:\Users\Usuuario2\source\repos\mvcPractica3.AccesoDatos\obj\Debug\net8.0\mvcPractica3.AccesoDatos.dll
+C:\Users\Usuuario2\source\repos\mvcPractica3.AccesoDatos\obj\Debug\net8.0\refint\mvcPractica3.AccesoDatos.dll
+C:\Users\Usuuario2\source\repos\mvcPractica3.AccesoDatos\obj\Debug\net8.0\mvcPractica3.AccesoDatos.pdb
+C:\Users\Usuuario2\source\repos\mvcPractica3.AccesoDatos\obj\Debug\net8.0\ref\mvcPractica3.AccesoDatos.dll
+C:\Users\Usuuario2\source\repos\mvcPractica3.AccesoDatos\bin\Debug\net8.0\mvcPractica3.AccesoDatos.runtimeconfig.json
+C:\Users\Usuuario2\source\repos\mvcPractica3.AccesoDatos\obj\Debug\net8.0\mvcPractica3.AccesoDatos.genruntimeconfig.cache
+J:\tarea\TAREA\Programacion Web 2\practica\MVC\mvcPractica3.AccesoDatos\bin\Debug\net8.0\mvcPractica3.AccesoDatos.deps.json
+J:\tarea\TAREA\Programacion Web 2\practica\MVC\mvcPractica3.AccesoDatos\bin\Debug\net8.0\mvcPractica3.AccesoDatos.runtimeconfig.json
+J:\tarea\TAREA\Programacion Web 2\practica\MVC\mvcPractica3.AccesoDatos\bin\Debug\net8.0\mvcPractica3.AccesoDatos.dll
+J:\tarea\TAREA\Programacion Web 2\practica\MVC\mvcPractica3.AccesoDatos\bin\Debug\net8.0\mvcPractica3.AccesoDatos.pdb
+J:\tarea\TAREA\Programacion Web 2\practica\MVC\mvcPractica3.AccesoDatos\bin\Debug\net8.0\mvcPractica3.Models.dll
+J:\tarea\TAREA\Programacion Web 2\practica\MVC\mvcPractica3.AccesoDatos\bin\Debug\net8.0\mvcPractica3.Utiles.dll
+J:\tarea\TAREA\Programacion Web 2\practica\MVC\mvcPractica3.AccesoDatos\bin\Debug\net8.0\mvcPractica3.Models.pdb
+J:\tarea\TAREA\Programacion Web 2\practica\MVC\mvcPractica3.AccesoDatos\bin\Debug\net8.0\mvcPractica3.Utiles.pdb
+J:\tarea\TAREA\Programacion Web 2\practica\MVC\mvcPractica3.AccesoDatos\obj\Debug\net8.0\mvcPractica3.AccesoDatos.csproj.AssemblyReference.cache
+J:\tarea\TAREA\Programacion Web 2\practica\MVC\mvcPractica3.AccesoDatos\obj\Debug\net8.0\mvcPractica3.AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+J:\tarea\TAREA\Programacion Web 2\practica\MVC\mvcPractica3.AccesoDatos\obj\Debug\net8.0\mvcPractica3.AccesoDatos.AssemblyInfoInputs.cache
+J:\tarea\TAREA\Programacion Web 2\practica\MVC\mvcPractica3.AccesoDatos\obj\Debug\net8.0\mvcPractica3.AccesoDatos.AssemblyInfo.cs
+J:\tarea\TAREA\Programacion Web 2\practica\MVC\mvcPractica3.AccesoDatos\obj\Debug\net8.0\mvcPractica3.AccesoDatos.csproj.CoreCompileInputs.cache
+J:\tarea\TAREA\Programacion Web 2\practica\MVC\mvcPractica3.AccesoDatos\obj\Debug\net8.0\mvcPractica3.AccesoDatos.sourcelink.json
+J:\tarea\TAREA\Programacion Web 2\practica\MVC\mvcPractica3.AccesoDatos\obj\Debug\net8.0\mvcPract.26A45CC2.Up2Date
+J:\tarea\TAREA\Programacion Web 2\practica\MVC\mvcPractica3.AccesoDatos\obj\Debug\net8.0\mvcPractica3.AccesoDatos.dll
+J:\tarea\TAREA\Programacion Web 2\practica\MVC\mvcPractica3.AccesoDatos\obj\Debug\net8.0\refint\mvcPractica3.AccesoDatos.dll
+J:\tarea\TAREA\Programacion Web 2\practica\MVC\mvcPractica3.AccesoDatos\obj\Debug\net8.0\mvcPractica3.AccesoDatos.pdb
+J:\tarea\TAREA\Programacion Web 2\practica\MVC\mvcPractica3.AccesoDatos\obj\Debug\net8.0\mvcPractica3.AccesoDatos.genruntimeconfig.cache
+J:\tarea\TAREA\Programacion Web 2\practica\MVC\mvcPractica3.AccesoDatos\obj\Debug\net8.0\ref\mvcPractica3.AccesoDatos.dll

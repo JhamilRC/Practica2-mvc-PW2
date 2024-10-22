@@ -1,0 +1,23 @@
+C:\Users\Usuuario2\source\repos\mvcPractica3.Utiles\bin\Debug\net8.0\mvcPractica3.Utiles.deps.json
+C:\Users\Usuuario2\source\repos\mvcPractica3.Utiles\bin\Debug\net8.0\mvcPractica3.Utiles.dll
+C:\Users\Usuuario2\source\repos\mvcPractica3.Utiles\bin\Debug\net8.0\mvcPractica3.Utiles.pdb
+C:\Users\Usuuario2\source\repos\mvcPractica3.Utiles\obj\Debug\net8.0\mvcPractica3.Utiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuuario2\source\repos\mvcPractica3.Utiles\obj\Debug\net8.0\mvcPractica3.Utiles.AssemblyInfoInputs.cache
+C:\Users\Usuuario2\source\repos\mvcPractica3.Utiles\obj\Debug\net8.0\mvcPractica3.Utiles.AssemblyInfo.cs
+C:\Users\Usuuario2\source\repos\mvcPractica3.Utiles\obj\Debug\net8.0\mvcPractica3.Utiles.csproj.CoreCompileInputs.cache
+C:\Users\Usuuario2\source\repos\mvcPractica3.Utiles\obj\Debug\net8.0\mvcPractica3.Utiles.dll
+C:\Users\Usuuario2\source\repos\mvcPractica3.Utiles\obj\Debug\net8.0\refint\mvcPractica3.Utiles.dll
+C:\Users\Usuuario2\source\repos\mvcPractica3.Utiles\obj\Debug\net8.0\mvcPractica3.Utiles.pdb
+C:\Users\Usuuario2\source\repos\mvcPractica3.Utiles\obj\Debug\net8.0\ref\mvcPractica3.Utiles.dll
+J:\tarea\TAREA\Programacion Web 2\practica\MVC\mvcPractica3.Utiles\bin\Debug\net8.0\mvcPractica3.Utiles.deps.json
+J:\tarea\TAREA\Programacion Web 2\practica\MVC\mvcPractica3.Utiles\bin\Debug\net8.0\mvcPractica3.Utiles.dll
+J:\tarea\TAREA\Programacion Web 2\practica\MVC\mvcPractica3.Utiles\bin\Debug\net8.0\mvcPractica3.Utiles.pdb
+J:\tarea\TAREA\Programacion Web 2\practica\MVC\mvcPractica3.Utiles\obj\Debug\net8.0\mvcPractica3.Utiles.GeneratedMSBuildEditorConfig.editorconfig
+J:\tarea\TAREA\Programacion Web 2\practica\MVC\mvcPractica3.Utiles\obj\Debug\net8.0\mvcPractica3.Utiles.AssemblyInfoInputs.cache
+J:\tarea\TAREA\Programacion Web 2\practica\MVC\mvcPractica3.Utiles\obj\Debug\net8.0\mvcPractica3.Utiles.AssemblyInfo.cs
+J:\tarea\TAREA\Programacion Web 2\practica\MVC\mvcPractica3.Utiles\obj\Debug\net8.0\mvcPractica3.Utiles.csproj.CoreCompileInputs.cache
+J:\tarea\TAREA\Programacion Web 2\practica\MVC\mvcPractica3.Utiles\obj\Debug\net8.0\mvcPractica3.Utiles.sourcelink.json
+J:\tarea\TAREA\Programacion Web 2\practica\MVC\mvcPractica3.Utiles\obj\Debug\net8.0\mvcPractica3.Utiles.dll
+J:\tarea\TAREA\Programacion Web 2\practica\MVC\mvcPractica3.Utiles\obj\Debug\net8.0\refint\mvcPractica3.Utiles.dll
+J:\tarea\TAREA\Programacion Web 2\practica\MVC\mvcPractica3.Utiles\obj\Debug\net8.0\mvcPractica3.Utiles.pdb
+J:\tarea\TAREA\Programacion Web 2\practica\MVC\mvcPractica3.Utiles\obj\Debug\net8.0\ref\mvcPractica3.Utiles.dll
